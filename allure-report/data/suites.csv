@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed May 08 14:13:56 MSK 2024","Wed May 08 14:13:59 MSK 2024","2402","tests","test_order","TestOrder","","","test_order_with_valid_credential",""
+"passed","Wed May 08 14:13:38 MSK 2024","Wed May 08 14:13:39 MSK 2024","1044","tests","test_login","TestLogin","","","test login","тест проверяет что после логинки пользователь попадает на главную страницу"
+"passed","Wed May 08 14:13:47 MSK 2024","Wed May 08 14:13:48 MSK 2024","836","tests","test_login","TestLogin","","","test login1","После перехода на главную страницу пользователь видит карточки тиовара"
+"passed","Wed May 08 14:14:17 MSK 2024","Wed May 08 14:14:19 MSK 2024","2230","tests","test_order","TestOrder","","","test_order_with_wrong_credential[lst_data1]",""
+"passed","Wed May 08 14:14:27 MSK 2024","Wed May 08 14:14:29 MSK 2024","2324","tests","test_order","TestOrder","","","test_order_with_wrong_credential[lst_data2]",""
+"passed","Wed May 08 14:14:06 MSK 2024","Wed May 08 14:14:09 MSK 2024","2283","tests","test_order","TestOrder","","","test_order_with_wrong_credential[lst_data0]",""
